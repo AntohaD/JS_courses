@@ -1,0 +1,22 @@
+html, body {
+  background-color : grey;
+}
+button {
+  width : 100px;
+  display : inline;
+}
+.rain_container_outer {
+  width : 1300px;
+  height : 1300px;
+  position : absolute;
+  top : 50px;
+  left : 50px;
+}
+.rain_container{
+  width : 200px;
+  height : 200px;
+  position : absolute;
+  top : 10px;
+  left : 50px;
+  transform: rotate(10deg);
+}

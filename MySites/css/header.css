@@ -1,0 +1,26 @@
+.begin{
+    background-color: rgb(43, 42, 41);
+}
+
+header{
+    height: 160px;
+    width: 100%;
+    display: inline-block;
+}
+
+img{
+    height: 119px;
+    width: 119px;
+    object-fit: cover;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    font-size: 20px;
+    padding-left: 40px;
+    color: azure;
+}
