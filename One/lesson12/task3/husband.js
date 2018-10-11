@@ -4,15 +4,12 @@ let sober = true;
 
 exports.mod = class Husband {
     getSalary() {
-        return console.log(`This is your salary ${salary}`);
+        return `This is your salary ${salary} \n`;
     }
     listFriends() {
-        return console.log(`Who is your friends? ${friends}`);
+        return `Who is your friends? ${friends} \n`;
     }
     ifSober() {
-        return console.log(`Are you sober? ${sober}`);
+        return `Are you sober? ${sober} \n`;
     }
 }
-
-
-
