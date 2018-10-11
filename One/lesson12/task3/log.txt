@@ -1,1 +1,3 @@
-undefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefined
+This is your salary 5000 
+Who is your friends? Bob,Ken,Kevin 
+Are you sober? true 
